@@ -2,7 +2,7 @@
 
 A short synthesis of published thermal and field data on beehive insulation, with a small, fully documented illustrative model.
 
-**Status:** technical note v1.0, not peer reviewed. No new field measurements. Model, not measurement.
+**Status:** technical note v1.0, not peer reviewed. No new field measurements. Model, not measurement. DOI: [10.5281/zenodo.22968440](https://doi.org/10.5281/zenodo.22968440)
 
 - Paper: [`paper/technical_note.md`](paper/technical_note.md)
 - Model and figures: [`model/model.py`](model/model.py)
@@ -28,7 +28,7 @@ All parameters are listed in `PARAMS` in `model/model.py` with unit, source and 
 
 ## Citation
 
-See `CITATION.cff`. A DOI is issued through Zenodo on each GitHub release.
+See `CITATION.cff`. Cite the archived version via [doi.org/10.5281/zenodo.22968440](https://doi.org/10.5281/zenodo.22968440).
 
 ## License
 

@@ -3,6 +3,7 @@ message: "If you use this work, please cite it as below."
 title: "Why hive insulation has no general answer: a heat-balance view of published thermal and field data"
 type: report
 version: 1.0.0
+doi: "10.5281/zenodo.22968440"
 license: CC-BY-4.0
 authors:
   - family-names: Ploder
