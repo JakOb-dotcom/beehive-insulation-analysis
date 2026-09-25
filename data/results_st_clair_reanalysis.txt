@@ -1,0 +1,21 @@
+Colonies: covered (Wrapped) 21, uncovered (Unwrapped) 22
+Dead by 12 Apr 2021: covered 1/21 (4.8 %), uncovered 6/22 (27.3 %)
+  Fisher exact test, two-sided: p = 0.095
+  Boschloo exact test, two-sided: p = 0.050
+Mass loss 9 Nov - 20 Jan (before feeding): uncovered 7.6 kg (n=15), covered 5.2 kg (n=20); difference 2.4 kg, approx. 95 % CI -1.8 to 6.6; Mann-Whitney p = 0.32
+Mass loss 20 Jan - 22 Feb (feeding, cold wave): uncovered 1.1 kg (n=16), covered -1.5 kg (n=20); difference 2.7 kg, approx. 95 % CI 1.2 to 4.2; Mann-Whitney p = 0.00
+Mass loss 22 Feb - 30 Mar: uncovered 5.3 kg (n=16), covered 6.9 kg (n=20); difference -1.5 kg, approx. 95 % CI -4.6 to 1.5; Mann-Whitney p = 0.47
+Mass loss 9 Nov - 30 Mar (whole winter): uncovered 14.3 kg (n=15), covered 10.5 kg (n=20); difference 3.8 kg, approx. 95 % CI -1.3 to 8.9; Mann-Whitney p = 0.18
+Mass loss 9 Nov - 12 Apr: uncovered 12.8 kg (n=15), covered 10.4 kg (n=20); difference 2.5 kg, approx. 95 % CI -2.8 to 7.7; Mann-Whitney p = 0.29
+  whole winter: covered colonies lost less in 6 of 8 apiaries
+Colonies more than 2 kg heavier on 2 Feb than on 20 Jan (weighed after feeding): 11 of 43
+Winter weighing intervals (Nov - Jan) showing a gain > 2 kg: 13 of 128
+Authors' validation, reference scale minus tilt method: 5.9 +/- 5.7 kg (n=42)
+Slope of mass, kg per 14 days, no feeding step: uncovered -1.19, covered -0.72, Welch p = 0.03
+Slope of mass, kg per 14 days, with feeding step: uncovered -1.49, covered -1.10, Welch p = 0.21
+Slope of mass, kg per 14 days, with feeding step, 2 Feb weighing excluded: uncovered -1.51, covered -1.43, Welch p = 0.80
+Proportion of mid-winter sugar cake consumed: uncovered 0.71, covered 0.62, Mann-Whitney p = 0.30
+Authors' mass-change slope (column 'Rate of growth'): uncovered -1.65, covered -0.88, Welch p = 0.003
+Model bound, uncovered wooden hive, cluster about 1 kg (inner 0.2 W/K), 9 Nov - 30 Mar at -7 degC: 5.2 kg sugar, about 6.5 kg of stores at 80 % sugar = 45 % of the 14.3 kg net loss of surviving uncovered colonies (n=15, excluding feed added)
+Model bound, uncovered wooden hive, cluster about 1.5 kg (inner 0.3 W/K), 9 Nov - 30 Mar at -7 degC: 7.5 kg sugar, about 9.4 kg of stores at 80 % sugar = 65 % of the 14.3 kg net loss of surviving uncovered colonies (n=15, excluding feed added)
+Model bound, uncovered wooden hive, cluster about 2 kg (inner 0.4 W/K), 9 Nov - 30 Mar at -7 degC: 9.6 kg sugar, about 12.1 kg of stores at 80 % sugar = 84 % of the 14.3 kg net loss of surviving uncovered colonies (n=15, excluding feed added)

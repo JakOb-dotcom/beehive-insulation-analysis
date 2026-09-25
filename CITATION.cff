@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Why hive insulation has no general answer: a heat-balance view of published thermal and field data"
+type: report
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Ploder
+    given-names: Jakob
+keywords:
+  - Apis mellifera
+  - hive insulation
+  - thermoregulation
+  - beekeeping

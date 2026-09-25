@@ -1,0 +1,8 @@
+3.2  wall-decided heat, March, 20k cells, no cover: EPS 1.0 -> 13.8 W, EPS 1.31 -> 10.0 W (-28 %)
+3.2  R 25 mm spruce = 0.19 m2K/W, R 19 mm cedar = 0.19 m2K/W
+3.6  wall share of flow-night demand, dense cover, 10k-40k cells, three sites: 0.9-8.2 %
+3.7  shade, 25-28 degC, 20k-40k cells: wood sheds 2.8-7.0 W more than EPS
+3.7  dark wooden roof in full sun: 0.22 m2 x 2.8 W/m2K x 40 K = 25 W
+5    entrance advection: full entrance area 1.13 W/K, half area 0.56 W/K
+5    one-face brood area 0.128 m2: inner conductance dense 0.10 W/K, no bees 0.37 W/K
+9    CV of honey yield (Erdogan 2019) 11-16 %; colonies per group for a 10 % difference (two-sided alpha 0.05, power 0.8): 21-41

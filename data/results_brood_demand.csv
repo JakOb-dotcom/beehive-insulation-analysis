@@ -1,0 +1,217 @@
+site,month,tmin,cells,cover,demand_wood_W,demand_eps_W
+Whitehorse,1,-18.9,10000,dense,10.0,9.0
+Whitehorse,1,-18.9,10000,none,34.5,24.8
+Whitehorse,1,-18.9,20000,dense,18.7,15.4
+Whitehorse,1,-18.9,20000,none,55.4,33.9
+Whitehorse,1,-18.9,40000,dense,33.0,24.0
+Whitehorse,1,-18.9,40000,none,79.4,41.6
+Whitehorse,2,-16.6,10000,dense,9.6,8.6
+Whitehorse,2,-16.6,10000,none,33.1,23.7
+Whitehorse,2,-16.6,20000,dense,17.9,14.7
+Whitehorse,2,-16.6,20000,none,53.0,32.5
+Whitehorse,2,-16.6,40000,dense,31.6,22.9
+Whitehorse,2,-16.6,40000,none,76.0,39.9
+Whitehorse,3,-12.4,10000,dense,8.8,7.9
+Whitehorse,3,-12.4,10000,none,30.4,21.8
+Whitehorse,3,-12.4,20000,dense,16.4,13.5
+Whitehorse,3,-12.4,20000,none,48.7,29.8
+Whitehorse,3,-12.4,40000,dense,29.0,21.1
+Whitehorse,3,-12.4,40000,none,69.8,36.6
+Whitehorse,4,-4.0,10000,dense,7.2,6.5
+Whitehorse,4,-4.0,10000,none,25.0,17.9
+Whitehorse,4,-4.0,20000,dense,13.5,11.1
+Whitehorse,4,-4.0,20000,none,40.1,24.6
+Whitehorse,4,-4.0,40000,dense,23.9,17.3
+Whitehorse,4,-4.0,40000,none,57.5,30.1
+Whitehorse,5,1.6,10000,dense,6.2,5.6
+Whitehorse,5,1.6,10000,none,21.4,15.3
+Whitehorse,5,1.6,20000,dense,11.6,9.5
+Whitehorse,5,1.6,20000,none,34.3,21.0
+Whitehorse,5,1.6,40000,dense,20.4,14.8
+Whitehorse,5,1.6,40000,none,49.2,25.8
+Whitehorse,6,6.2,10000,dense,5.3,4.8
+Whitehorse,6,6.2,10000,none,18.4,13.2
+Whitehorse,6,6.2,20000,dense,10.0,8.2
+Whitehorse,6,6.2,20000,none,29.6,18.1
+Whitehorse,6,6.2,40000,dense,17.6,12.8
+Whitehorse,6,6.2,40000,none,42.4,22.3
+Whitehorse,7,8.5,10000,dense,4.9,4.4
+Whitehorse,7,8.5,10000,none,17.0,12.2
+Whitehorse,7,8.5,20000,dense,9.2,7.6
+Whitehorse,7,8.5,20000,none,27.2,16.7
+Whitehorse,7,8.5,40000,dense,16.2,11.8
+Whitehorse,7,8.5,40000,none,39.0,20.5
+Whitehorse,8,7.2,10000,dense,5.2,4.6
+Whitehorse,8,7.2,10000,none,17.8,12.8
+Whitehorse,8,7.2,20000,dense,9.6,7.9
+Whitehorse,8,7.2,20000,none,28.6,17.5
+Whitehorse,8,7.2,40000,dense,17.0,12.4
+Whitehorse,8,7.2,40000,none,41.0,21.5
+Whitehorse,9,2.7,10000,dense,6.0,5.4
+Whitehorse,9,2.7,10000,none,20.7,14.8
+Whitehorse,9,2.7,20000,dense,11.2,9.2
+Whitehorse,9,2.7,20000,none,33.2,20.3
+Whitehorse,9,2.7,40000,dense,19.8,14.4
+Whitehorse,9,2.7,40000,none,47.6,25.0
+Whitehorse,10,-2.8,10000,dense,7.0,6.3
+Whitehorse,10,-2.8,10000,none,24.2,17.4
+Whitehorse,10,-2.8,20000,dense,13.1,10.8
+Whitehorse,10,-2.8,20000,none,38.9,23.8
+Whitehorse,10,-2.8,40000,dense,23.1,16.8
+Whitehorse,10,-2.8,40000,none,55.7,29.2
+Whitehorse,11,-11.8,10000,dense,8.7,7.8
+Whitehorse,11,-11.8,10000,none,30.0,21.5
+Whitehorse,11,-11.8,20000,dense,16.2,13.4
+Whitehorse,11,-11.8,20000,none,48.1,29.5
+Whitehorse,11,-11.8,40000,dense,28.6,20.8
+Whitehorse,11,-11.8,40000,none,69.0,36.2
+Whitehorse,12,-16.5,10000,dense,9.6,8.6
+Whitehorse,12,-16.5,10000,none,33.0,23.7
+Whitehorse,12,-16.5,20000,dense,17.9,14.7
+Whitehorse,12,-16.5,20000,none,52.9,32.4
+Whitehorse,12,-16.5,40000,dense,31.5,22.9
+Whitehorse,12,-16.5,40000,none,75.9,39.8
+Bad Gleichenberg,1,-4.0,10000,dense,7.2,6.5
+Bad Gleichenberg,1,-4.0,10000,none,25.0,17.9
+Bad Gleichenberg,1,-4.0,20000,dense,13.5,11.1
+Bad Gleichenberg,1,-4.0,20000,none,40.1,24.6
+Bad Gleichenberg,1,-4.0,40000,dense,23.9,17.3
+Bad Gleichenberg,1,-4.0,40000,none,57.5,30.1
+Bad Gleichenberg,2,-3.2,10000,dense,7.1,6.4
+Bad Gleichenberg,2,-3.2,10000,none,24.5,17.6
+Bad Gleichenberg,2,-3.2,20000,dense,13.2,10.9
+Bad Gleichenberg,2,-3.2,20000,none,39.3,24.1
+Bad Gleichenberg,2,-3.2,40000,dense,23.4,17.0
+Bad Gleichenberg,2,-3.2,40000,none,56.3,29.5
+Bad Gleichenberg,3,0.3,10000,dense,6.4,5.8
+Bad Gleichenberg,3,0.3,10000,none,22.2,15.9
+Bad Gleichenberg,3,0.3,20000,dense,12.0,9.9
+Bad Gleichenberg,3,0.3,20000,none,35.7,21.8
+Bad Gleichenberg,3,0.3,40000,dense,21.2,15.4
+Bad Gleichenberg,3,0.3,40000,none,51.1,26.8
+Bad Gleichenberg,4,4.9,10000,dense,5.6,5.0
+Bad Gleichenberg,4,4.9,10000,none,19.3,13.8
+Bad Gleichenberg,4,4.9,20000,dense,10.4,8.6
+Bad Gleichenberg,4,4.9,20000,none,30.9,19.0
+Bad Gleichenberg,4,4.9,40000,dense,18.4,13.4
+Bad Gleichenberg,4,4.9,40000,none,44.3,23.3
+Bad Gleichenberg,5,9.4,10000,dense,4.8,4.3
+Bad Gleichenberg,5,9.4,10000,none,16.4,11.8
+Bad Gleichenberg,5,9.4,20000,dense,8.9,7.3
+Bad Gleichenberg,5,9.4,20000,none,26.3,16.1
+Bad Gleichenberg,5,9.4,40000,dense,15.7,11.4
+Bad Gleichenberg,5,9.4,40000,none,37.7,19.8
+Bad Gleichenberg,6,13.3,10000,dense,4.0,3.6
+Bad Gleichenberg,6,13.3,10000,none,13.9,10.0
+Bad Gleichenberg,6,13.3,20000,dense,7.5,6.2
+Bad Gleichenberg,6,13.3,20000,none,22.3,13.7
+Bad Gleichenberg,6,13.3,40000,dense,13.3,9.6
+Bad Gleichenberg,6,13.3,40000,none,32.0,16.8
+Bad Gleichenberg,7,14.9,10000,dense,3.7,3.4
+Bad Gleichenberg,7,14.9,10000,none,12.9,9.2
+Bad Gleichenberg,7,14.9,20000,dense,7.0,5.7
+Bad Gleichenberg,7,14.9,20000,none,20.7,12.7
+Bad Gleichenberg,7,14.9,40000,dense,12.3,8.9
+Bad Gleichenberg,7,14.9,40000,none,29.6,15.5
+Bad Gleichenberg,8,14.5,10000,dense,3.8,3.4
+Bad Gleichenberg,8,14.5,10000,none,13.1,9.4
+Bad Gleichenberg,8,14.5,20000,dense,7.1,5.9
+Bad Gleichenberg,8,14.5,20000,none,21.1,12.9
+Bad Gleichenberg,8,14.5,40000,dense,12.5,9.1
+Bad Gleichenberg,8,14.5,40000,none,30.2,15.8
+Bad Gleichenberg,9,10.5,10000,dense,4.6,4.1
+Bad Gleichenberg,9,10.5,10000,none,15.7,11.3
+Bad Gleichenberg,9,10.5,20000,dense,8.5,7.0
+Bad Gleichenberg,9,10.5,20000,none,25.2,15.4
+Bad Gleichenberg,9,10.5,40000,dense,15.0,10.9
+Bad Gleichenberg,9,10.5,40000,none,36.1,18.9
+Bad Gleichenberg,10,5.9,10000,dense,5.4,4.8
+Bad Gleichenberg,10,5.9,10000,none,18.6,13.4
+Bad Gleichenberg,10,5.9,20000,dense,10.1,8.3
+Bad Gleichenberg,10,5.9,20000,none,29.9,18.3
+Bad Gleichenberg,10,5.9,40000,dense,17.8,12.9
+Bad Gleichenberg,10,5.9,40000,none,42.9,22.5
+Bad Gleichenberg,11,2.0,10000,dense,6.1,5.5
+Bad Gleichenberg,11,2.0,10000,none,21.1,15.2
+Bad Gleichenberg,11,2.0,20000,dense,11.4,9.4
+Bad Gleichenberg,11,2.0,20000,none,33.9,20.8
+Bad Gleichenberg,11,2.0,40000,dense,20.2,14.7
+Bad Gleichenberg,11,2.0,40000,none,48.6,25.5
+Bad Gleichenberg,12,-2.9,10000,dense,7.0,6.3
+Bad Gleichenberg,12,-2.9,10000,none,24.3,17.4
+Bad Gleichenberg,12,-2.9,20000,dense,13.1,10.8
+Bad Gleichenberg,12,-2.9,20000,none,39.0,23.9
+Bad Gleichenberg,12,-2.9,40000,dense,23.2,16.8
+Bad Gleichenberg,12,-2.9,40000,none,55.8,29.3
+Sevilla,1,6.0,10000,dense,5.4,4.8
+Sevilla,1,6.0,10000,none,18.6,13.3
+Sevilla,1,6.0,20000,dense,10.1,8.3
+Sevilla,1,6.0,20000,none,29.8,18.3
+Sevilla,1,6.0,40000,dense,17.7,12.9
+Sevilla,1,6.0,40000,none,42.7,22.4
+Sevilla,2,7.0,10000,dense,5.2,4.7
+Sevilla,2,7.0,10000,none,17.9,12.9
+Sevilla,2,7.0,20000,dense,9.7,8.0
+Sevilla,2,7.0,20000,none,28.8,17.6
+Sevilla,2,7.0,40000,dense,17.1,12.4
+Sevilla,2,7.0,40000,none,41.3,21.6
+Sevilla,3,9.5,10000,dense,4.7,4.2
+Sevilla,3,9.5,10000,none,16.3,11.7
+Sevilla,3,9.5,20000,dense,8.8,7.3
+Sevilla,3,9.5,20000,none,26.2,16.1
+Sevilla,3,9.5,40000,dense,15.6,11.3
+Sevilla,3,9.5,40000,none,37.6,19.7
+Sevilla,4,11.6,10000,dense,4.3,3.9
+Sevilla,4,11.6,10000,none,15.0,10.8
+Sevilla,4,11.6,20000,dense,8.1,6.7
+Sevilla,4,11.6,20000,none,24.1,14.7
+Sevilla,4,11.6,40000,dense,14.3,10.4
+Sevilla,4,11.6,40000,none,34.5,18.1
+Sevilla,5,14.9,10000,dense,3.7,3.4
+Sevilla,5,14.9,10000,none,12.9,9.2
+Sevilla,5,14.9,20000,dense,7.0,5.7
+Sevilla,5,14.9,20000,none,20.7,12.7
+Sevilla,5,14.9,40000,dense,12.3,8.9
+Sevilla,5,14.9,40000,none,29.6,15.5
+Sevilla,6,18.5,10000,dense,3.1,2.8
+Sevilla,6,18.5,10000,none,10.6,7.6
+Sevilla,6,18.5,20000,dense,5.7,4.7
+Sevilla,6,18.5,20000,none,17.0,10.4
+Sevilla,6,18.5,40000,dense,10.1,7.3
+Sevilla,6,18.5,40000,none,24.3,12.8
+Sevilla,7,20.7,10000,dense,2.7,2.4
+Sevilla,7,20.7,10000,none,9.2,6.6
+Sevilla,7,20.7,20000,dense,5.0,4.1
+Sevilla,7,20.7,20000,none,14.7,9.0
+Sevilla,7,20.7,40000,dense,8.7,6.4
+Sevilla,7,20.7,40000,none,21.1,11.0
+Sevilla,8,20.9,10000,dense,2.6,2.4
+Sevilla,8,20.9,10000,none,9.0,6.5
+Sevilla,8,20.9,20000,dense,4.9,4.0
+Sevilla,8,20.9,20000,none,14.5,8.9
+Sevilla,8,20.9,40000,dense,8.6,6.3
+Sevilla,8,20.9,40000,none,20.8,10.9
+Sevilla,9,18.4,10000,dense,3.1,2.8
+Sevilla,9,18.4,10000,none,10.6,7.6
+Sevilla,9,18.4,20000,dense,5.8,4.7
+Sevilla,9,18.4,20000,none,17.1,10.5
+Sevilla,9,18.4,40000,dense,10.2,7.4
+Sevilla,9,18.4,40000,none,24.5,12.8
+Sevilla,10,14.9,10000,dense,3.7,3.4
+Sevilla,10,14.9,10000,none,12.9,9.2
+Sevilla,10,14.9,20000,dense,7.0,5.7
+Sevilla,10,14.9,20000,none,20.7,12.7
+Sevilla,10,14.9,40000,dense,12.3,8.9
+Sevilla,10,14.9,40000,none,29.6,15.5
+Sevilla,11,10.1,10000,dense,4.6,4.1
+Sevilla,11,10.1,10000,none,16.0,11.4
+Sevilla,11,10.1,20000,dense,8.6,7.1
+Sevilla,11,10.1,20000,none,25.6,15.7
+Sevilla,11,10.1,40000,dense,15.2,11.1
+Sevilla,11,10.1,40000,none,36.7,19.2
+Sevilla,12,7.4,10000,dense,5.1,4.6
+Sevilla,12,7.4,10000,none,17.7,12.7
+Sevilla,12,7.4,20000,dense,9.6,7.9
+Sevilla,12,7.4,20000,none,28.4,17.4
+Sevilla,12,7.4,40000,dense,16.9,12.3
+Sevilla,12,7.4,40000,none,40.7,21.3
